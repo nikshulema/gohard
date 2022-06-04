@@ -36,6 +36,17 @@ Use ~~ for cross out
 
 ~~cross~~
 
+## Seminar2
 
+Use *git branch branch_name*
+to create a new branch
+
+Use *git checkout branch_name* to switch from branch to branch
+
+Use *git merge branch_name* to merge branches
+
+Use *git branch -d branch_name*to delete branch
+
+Use *git log --graph* for branches visualisation 
 
  
