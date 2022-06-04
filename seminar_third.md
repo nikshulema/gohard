@@ -38,6 +38,8 @@ Use ~~ for cross out
 
 ## Seminar2
 
+***
+
 Use *git branch branch_name*
 to create a new branch
 
@@ -49,4 +51,14 @@ Use *git branch -d branch_name*to delete branch
 
 Use *git log --graph* for branches visualisation 
 
+ ## Seminar3
  
+ ***
+
+ 1. Создать новый репозиторий в GitHub
+ 2. Авторизоваться
+ 3. Когда первый раз делаешь git push, набирай **git push --set -upstream origin** *branch name*. Ситуация будет повторяться с каждой новой веткой,которую будешь пушить.
+
+ **Git push** позволяет переместить файл из локального в отдаленный репозиторий. 
+
+ **Git pull** делает обратное - забирает из удаленного в локальный.
